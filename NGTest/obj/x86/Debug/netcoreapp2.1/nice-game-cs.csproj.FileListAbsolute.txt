@@ -1,0 +1,12 @@
+D:\nice-game-cs\nice-game-cs\bin\x86\Debug\netcoreapp2.1\gnet.dll
+D:\nice-game-cs\nice-game-cs\bin\x86\Debug\netcoreapp2.1\nice-game-cs.deps.json
+D:\nice-game-cs\nice-game-cs\bin\x86\Debug\netcoreapp2.1\nice-game-cs.runtimeconfig.json
+D:\nice-game-cs\nice-game-cs\bin\x86\Debug\netcoreapp2.1\nice-game-cs.runtimeconfig.dev.json
+D:\nice-game-cs\nice-game-cs\bin\x86\Debug\netcoreapp2.1\nice-game-cs.dll
+D:\nice-game-cs\nice-game-cs\bin\x86\Debug\netcoreapp2.1\nice-game-cs.pdb
+D:\nice-game-cs\nice-game-cs\obj\x86\Debug\netcoreapp2.1\nice-game-cs.csprojAssemblyReference.cache
+D:\nice-game-cs\nice-game-cs\obj\x86\Debug\netcoreapp2.1\nice-game-cs.csproj.CoreCompileInputs.cache
+D:\nice-game-cs\nice-game-cs\obj\x86\Debug\netcoreapp2.1\nice-game-cs.AssemblyInfoInputs.cache
+D:\nice-game-cs\nice-game-cs\obj\x86\Debug\netcoreapp2.1\nice-game-cs.AssemblyInfo.cs
+D:\nice-game-cs\nice-game-cs\obj\x86\Debug\netcoreapp2.1\nice-game-cs.dll
+D:\nice-game-cs\nice-game-cs\obj\x86\Debug\netcoreapp2.1\nice-game-cs.pdb

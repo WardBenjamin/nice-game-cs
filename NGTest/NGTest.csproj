@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>NGTest</RootNamespace>
+    <Configurations>Release;Debug</Configurations>
+    <Platforms>x64</Platforms>
+    <AssemblyName>NG_Test</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GNet\GNet.csproj" />
+  </ItemGroup>
+</Project>

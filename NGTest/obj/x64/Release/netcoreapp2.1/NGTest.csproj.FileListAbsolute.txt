@@ -1,0 +1,14 @@
+D:\nice-game-cs\NGTest\bin\x64\Release\netcoreapp2.1\gnet.dll
+D:\nice-game-cs\NGTest\bin\x64\Release\netcoreapp2.1\NG_Test.deps.json
+D:\nice-game-cs\NGTest\bin\x64\Release\netcoreapp2.1\NG_Test.runtimeconfig.json
+D:\nice-game-cs\NGTest\bin\x64\Release\netcoreapp2.1\NG_Test.runtimeconfig.dev.json
+D:\nice-game-cs\NGTest\bin\x64\Release\netcoreapp2.1\NG_Test.dll
+D:\nice-game-cs\NGTest\bin\x64\Release\netcoreapp2.1\NG_Test.pdb
+D:\nice-game-cs\NGTest\bin\x64\Release\netcoreapp2.1\GNet.pdb
+D:\nice-game-cs\NGTest\obj\x64\Release\netcoreapp2.1\NGTest.csprojAssemblyReference.cache
+D:\nice-game-cs\NGTest\obj\x64\Release\netcoreapp2.1\NGTest.csproj.CoreCompileInputs.cache
+D:\nice-game-cs\NGTest\obj\x64\Release\netcoreapp2.1\NGTest.AssemblyInfoInputs.cache
+D:\nice-game-cs\NGTest\obj\x64\Release\netcoreapp2.1\NGTest.AssemblyInfo.cs
+D:\nice-game-cs\NGTest\obj\x64\Release\netcoreapp2.1\NGTest.csproj.CopyComplete
+D:\nice-game-cs\NGTest\obj\x64\Release\netcoreapp2.1\NG_Test.dll
+D:\nice-game-cs\NGTest\obj\x64\Release\netcoreapp2.1\NG_Test.pdb

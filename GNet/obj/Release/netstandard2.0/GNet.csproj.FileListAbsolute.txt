@@ -1,0 +1,9 @@
+D:\nice-game-cs\GNet\bin\Release\netstandard2.0\gnet.dll
+D:\nice-game-cs\GNet\bin\Release\netstandard2.0\GNet.deps.json
+D:\nice-game-cs\GNet\bin\Release\netstandard2.0\GNet.pdb
+D:\nice-game-cs\GNet\obj\Release\netstandard2.0\GNet.csprojAssemblyReference.cache
+D:\nice-game-cs\GNet\obj\Release\netstandard2.0\GNet.csproj.CoreCompileInputs.cache
+D:\nice-game-cs\GNet\obj\Release\netstandard2.0\GNet.AssemblyInfoInputs.cache
+D:\nice-game-cs\GNet\obj\Release\netstandard2.0\GNet.AssemblyInfo.cs
+D:\nice-game-cs\GNet\obj\Release\netstandard2.0\GNet.dll
+D:\nice-game-cs\GNet\obj\Release\netstandard2.0\GNet.pdb
